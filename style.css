@@ -4,7 +4,6 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'arial', sans-serif;
-
 }
 section
 {
@@ -140,7 +139,7 @@ section .footer
 section .footer .row
 {
     padding: 15px 25px;
-    border-top: 1px solid rgba(0,0,0,05);
+    border-top: 1px solid rgba(0,0,0,0.05);
 }
 section .footer .row.row2
 {
@@ -170,7 +169,3 @@ section .footer .row.row2 ul:nth-child(2) li a
     margin-right: 0px;
     margin-right: 25px;
 }
-
-
-
-
